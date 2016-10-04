@@ -45,6 +45,9 @@ section {
     margin-bottom: 30px;
     color: #555; }
 
+.parallax-mirror {
+  visibility: visible !important; }
+
 .s_descr_wrap {
   text-align: center; }
   .s_descr_wrap .s_descr {
